@@ -1,0 +1,81 @@
+# CTF Challenges Reports - .gitignore
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Personal notes and drafts
+drafts/
+notes/
+personal/
+
+# Large files that shouldn't be in git
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Sensitive information (if any)
+secrets.txt
+passwords.txt
+keys/
+*.key
+*.pem
+
+# CTF specific
+flags.txt
+solutions.txt
+personal-notes.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Screenshots and media (optional - uncomment if you don't want to track these)
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.mp4
+# *.avi
+
+# Keep important directories
+!assets/
+!templates/
+!reports/
