@@ -31,7 +31,7 @@ ctf-challenges-reports/
 ├── CONTRIBUTING.md
 ├── LICENSE
 ├── .gitignore
-├── templates/
+├── _templates/
 │   ├── ctf-report-template.md
 │   └── writeup-template.md
 ├── tryhackme/
@@ -73,7 +73,7 @@ Each CTF report follows a standardized format:
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding new reports.
 
 ### Quick Guidelines:
-- Use the provided templates for consistency
+- Use the provided templates in `_templates/` for consistency
 - Include screenshots and code snippets
 - Document all tools and commands used
 - Explain the reasoning behind each step
