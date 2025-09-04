@@ -1,4 +1,4 @@
-# CTF Challenges Reports
+# CTF-Writeups
 
 A comprehensive collection of Capture The Flag (CTF) challenge reports and writeups from various cybersecurity platforms.
 
@@ -26,7 +26,7 @@ This repository contains detailed reports and writeups for CTF challenges comple
 ## 📁 Directory Structure
 
 ```
-ctf-challenges-reports/
+CTF-Writeups/
 ├── README.md
 ├── CONTRIBUTING.md
 ├── LICENSE
