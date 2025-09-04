@@ -22,7 +22,6 @@ This repository contains detailed reports and writeups for CTF challenges comple
 - **[picoCTF](picoctf/)** - Carnegie Mellon's annual cybersecurity competition
 - **[OverTheWire](overthewire/)** - Wargames and security challenges
 - **[HackTheBox](hackthebox/)** - Online penetration testing platform
-- **[Other](other/)** - Additional CTF platforms and competitions
 
 ## 📁 Directory Structure
 
@@ -45,10 +44,9 @@ ctf-challenges-reports/
 │   ├── bandit/
 │   ├── natas/
 │   └── leviathan/
-├── hackthebox/
-│   ├── machines/
-│   └── challenges/
-└── other/
+└── hackthebox/
+    ├── machines/
+    └── challenges/
 ```
 
 ## 📝 Report Format
@@ -103,14 +101,13 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding new repo
 
 ## 📊 Statistics
 
-- **Total CTF Reports**: 32 completed challenges
+- **Total CTF Reports**: 29 completed challenges
 - **Platforms**: 4 active platforms
 - **Breakdown**:
   - OverTheWire Bandit: 8 reports
   - HackTheBox Machines: 14 reports
   - TryHackMe Beginner: 5 reports
   - picoCTF 2025: 2 reports
-  - Other: 3 reports (templates, documentation)
 - **Categories**: Web, Crypto, Forensics, Reverse Engineering, Pwn, Misc
 
 ## 📄 License
