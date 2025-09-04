@@ -32,44 +32,10 @@ ctf-challenges-reports/
 ├── LICENSE
 ├── .gitignore
 ├── _templates/
-│   ├── ctf-report-template.md
-│   └── writeup-template.md
 ├── tryhackme/
-│   ├── basic-pentesting.md
-│   ├── blue.md
-│   ├── ignite.md
-│   ├── kenobi.md
-│   └── vulnversity.md
 ├── picoctf/
-│   ├── hashcrack.md
-│   └── nosql-injection.md
 ├── overthewire/
-│   ├── bandit-level-0.md
-│   ├── bandit-level-1.md
-│   ├── bandit-level-2.md
-│   ├── bandit-level-3.md
-│   ├── bandit-level-4.md
-│   ├── bandit-level-5.md
-│   ├── bandit-level-6.md
-│   ├── bandit-level-7.md
-│   └── bandit-level-8.md
 └── hackthebox/
-    ├── bashed.md
-    ├── bastard.md
-    ├── beep.md
-    ├── blue.md
-    ├── cronos.md
-    ├── devel.md
-    ├── grandpa.md
-    ├── granny.md
-    ├── irked.md
-    ├── lame.md
-    ├── legacy.md
-    ├── nibbles.md
-    ├── optimum.md
-    ├── poison.md
-    ├── sunday.md
-    └── valentine.md
 ```
 
 ## 📝 Report Format
